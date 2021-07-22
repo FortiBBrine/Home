@@ -1,0 +1,11 @@
+name: Home
+main: Home
+version: 2.2.8
+
+commands:
+  sethome:
+    usage: /sethome
+  delhome:
+    usage: /delhome
+  home:
+    usage: /home
